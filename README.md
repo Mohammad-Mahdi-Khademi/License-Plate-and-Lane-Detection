@@ -1,6 +1,6 @@
 # License Plate and Lane Detection System  
 
-📌 **Extended Project Overview**  
+## 📌 **Extended Project Overview**  
 This project implements an advanced **intelligent vehicle perception system** that unifies **license plate recognition (LPR)** with **lane detection and tracking** into a single pipeline. Unlike conventional systems that treat these as separate problems, this project integrates them into a modular yet unified framework capable of real-time performance.  
 
 Why is this important?  
